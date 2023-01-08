@@ -18,10 +18,8 @@ This project is to create an Online Learing System similar to Coursera and Udemy
 
 <a name="collab"></a>
 ## Collaborators
-- [Yousef Mohamed Hassan](https://www.github.com/usef2081)  _( Scrum Master )_
 - [Aser Ashraf](https://github.com/aser2709) 
-- [Kareem Emad](https://github.com/KareemEmad1) 
-- [Abdelrahman Mamdouh](https://github.com/Abdelrahmansharaky)  
+- [Kareem Emad](https://github.com/KareemEmad1)  
 - [Ahmed Osama](https://github.com/ahmeddos)
 # Motivation
 This project’s goal was to implement an Online Education system using the Agile Methodology split into three sprints, following the assigned System Requirements and implementing it using the MERN Stack (MongoDB, Express.js, React and Node.js).
